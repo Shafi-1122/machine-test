@@ -1,0 +1,1 @@
+enum Datastatus {loading,loaded,idle,failed}
